@@ -1,0 +1,36 @@
+.book {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+  text-align: center;
+}
+
+.book img {
+  max-width: 200px;
+  height: auto;
+}
+
+.book h2 {
+  font-size: 1.5em;
+  margin: 16px 0;
+}
+
+.book p {
+  font-size: 1em;
+  margin: 16px 0;
+}
+
+.book ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.book li {
+  font-size: 0.9em;
+}
+
+.book button {
+  padding: 8px 16px;
+  font-size: 1em;
+  cursor: pointer;
+}
